@@ -1,6 +1,6 @@
-# Hello!!  
+# 👋Hello!! <img src="https://github.com/samwallflower/samwallflower/blob/1096778c97481cf0509abc7c54cdce0b5e465a5b/turtle.webp" width="80"> 
 I’m Samanta.🌟 A passionate programmer from Bangladesh , currently studying CSE in Hungary.  
-💻 I love building Java projects, exploring C++, and learning new web frameworks like React.    
+<img width="20" src="https://github.com/samwallflower/samwallflower/blob/1096778c97481cf0509abc7c54cdce0b5e465a5b/robot.webp"> I love building Java projects, exploring C++, and learning new web frameworks like React.    
 📚  I’m currently learning React and Angular  
 <img src="https://github.com/samwallflower/samwallflower/blob/8452f22eb1f545d2df2a903ed1f2c55d8487569e/rocket_1f680.gif" width="20"> I’m interested in Skydiving  
 📫 How to reach me   
