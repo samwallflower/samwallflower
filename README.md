@@ -1,4 +1,4 @@
-#👋 Hi  
+# 👋 Hello!!  
 I’m Samanta.🌟 A passionate programmer from Bangladesh , currently studying CSE in Hungary.  
 💻 I love building Java projects, exploring C++, and learning new web frameworks like React.    
 📚  I’m currently learning React and Angular  
