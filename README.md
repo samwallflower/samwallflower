@@ -1,8 +1,8 @@
-# 👋 Hello!!  
+# Hello!!  
 I’m Samanta.🌟 A passionate programmer from Bangladesh , currently studying CSE in Hungary.  
 💻 I love building Java projects, exploring C++, and learning new web frameworks like React.    
 📚  I’m currently learning React and Angular  
-👀 I’m interested in Skydiving  
+<img src="https://github.com/samwallflower/samwallflower/blob/8452f22eb1f545d2df2a903ed1f2c55d8487569e/rocket_1f680.gif" width="20"> I’m interested in Skydiving  
 📫 How to reach me   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samanta-afroz-95b150245/)  
 ⚡ Fun fact: I confuse 🍊orange and 🍊clementine  
