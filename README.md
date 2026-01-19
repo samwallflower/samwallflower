@@ -1,9 +1,6 @@
 # 👋Hello!! <img src="https://github.com/samwallflower/samwallflower/blob/1096778c97481cf0509abc7c54cdce0b5e465a5b/turtle.webp" width="80"> 
-I’m Samanta.🌟 A passionate programmer from Bangladesh , currently studying CSE in Hungary.  
-<img width="20" src="https://github.com/samwallflower/samwallflower/blob/1096778c97481cf0509abc7c54cdce0b5e465a5b/robot.webp"> I love bringing ideas to life.    
-📚  I’m currently learning full stack  
-<img src="https://github.com/samwallflower/samwallflower/blob/8452f22eb1f545d2df2a903ed1f2c55d8487569e/rocket_1f680.gif" width="20"> I’m interested in Skydiving  
-📫 How to reach me   
+I’m Samanta. A full stack developer from Bangladesh , currently studying CSE in Hungary. I love bringing ideas to life. Whether in life or in tech , I'm always doing side quests , enriching myself in different ways . Reach out if you wanna connect and build something together or just for a fun side quest anytime. 
+How to reach me   
 <p align="left">
 <a href="https://linkedin.com/in/samwallflower" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samwallflower" height="30" width="40" /></a>
 </p>
